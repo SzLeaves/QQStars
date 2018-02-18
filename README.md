@@ -1,5 +1,6 @@
 #### 2018.2.18 github@SzLeaves 开始重新改造/维护此项目 预计3~4个月出工程结果。
-#### 原作者：github@zccrs 隶属公司：Wuhan ####Deepin#### Technology Co.,Ltd.
+#### 原作者：github@zccrs （来自Wuhan Deepin Technology Co.,Ltd.
+
 
 
 #### 接口都已失效，此程序不在更新。
