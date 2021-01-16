@@ -1,4 +1,4 @@
-#### 2018.2.18 github@SzLeaves 开始重新改造/维护此项目 预计3~4个月出工程结果。
+#### 2018.2.18 github@SzLeaves 开始重新改造/维护此项目
 #### 原作者：github@zccrs （来自Wuhan Deepin Technology Co.,Ltd.
 
 
